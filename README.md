@@ -1,4 +1,4 @@
 # Costume-shopping
 
 
-Click [here](home.md) to begin.
+## Click [here](home.md) to begin.
