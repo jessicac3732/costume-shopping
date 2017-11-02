@@ -1,3 +1,3 @@
-## You change into a ugly monster and will never age again. You will retain your ugly appearance forever, but your heart will stay pure forever.
+## You change into a ugly monster with monstrous strength and you lose your ability to speak human language. 
 
 ### [Start Over](../../home.md)
