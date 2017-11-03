@@ -5,3 +5,5 @@
 Photo credit: By _nito_, found in _shutterstock_
 
 ### [Chucky The Creepy Doll](../Party/party.md)
+![](chucky.png)
+Photo credit: by _By GenadijsZ_, found in _shutterstock_ 
