@@ -1,8 +1,10 @@
 ## What costume are you buying? 
 
 ### [Scary Clown](../Scary-clown/scary-clown.md)
+
 ![](scary-clown-picture.png)
 [Photo credit](https://www.shutterstock.com/image-photo/portrait-scary-evil-clown-against-dark-490136173?src=Xf_KdcTFlXAg3z3utYN5JQ-2-6): By _nito_, found in _shutterstock_
+
 
 ### [Chucky The Creepy Doll](../Party/party.md)
 ![](chucky.png)
